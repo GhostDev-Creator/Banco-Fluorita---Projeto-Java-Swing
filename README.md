@@ -1,4 +1,4 @@
-# 🏦 Banco Fluorita - Simulador de Conta Bancária
+# 🏦 Banco Fluorita - Simulador de Totem Bancário
 
 ## Descrição
 
